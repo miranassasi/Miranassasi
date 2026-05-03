@@ -4,7 +4,7 @@ I'm a Computer Engineering student at King Mongkut's University of Technology Th
 
 ## 🚀 Current Focus
 *   **Preparing for:** The OpenAI Codex x AIAT Hackathon.
-*   **Learning:** Deepening my knowledge in Natural Language Processing (LLMs, LSTM architectures) and studying for the HSK 1 Chinese proficiency exam.
+*   **Learning:** Deepening my knowledge in Natural Language Processing (LLMs, LSTM architectures)
 
 ## 💻 Tech Stack & Tools
 *   **Languages:** Python, C
