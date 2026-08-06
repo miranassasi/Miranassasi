@@ -14,6 +14,9 @@ I'm a Computer Engineering student at King Mongkut's University of Technology Th
 ## 🛠️ Featured Projects
 *   **NLP AI Project:** Exploring large language models, fine-tuning, and LSTM implementations.
 *   **Football Expo Game:** A football-themed game developed and showcased for a university expo.
+*   **NLP AI Project:** Exploring large language models, fine-tuning, and LSTM implementations.
+Football Expo Game: A football-themed game developed and showcased for a university expo.
+  MODSA  An AI chatbot utilizing Retrieval-Augmented Generation (RAG) to answer university-related queries for KMUTT students and faculty.
 
 ## 📫 Let's Connect!
 *   **Email:** miranassasi@gmail.com
